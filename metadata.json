@@ -1,0 +1,6 @@
+
+{
+  "name": "MedCare Pro - Advanced Medical Center",
+  "description": "A professional, responsive, and SEO-optimized hospital website built with React and Tailwind CSS, featuring appointment scheduling, doctor directory, and comprehensive medical services.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
